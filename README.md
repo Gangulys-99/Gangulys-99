@@ -1,9 +1,10 @@
 # Hi 👋, I'm Anurag Ganguly 
-🚀 Data Analyst | Turning Data into Insights, and Ideas into Reality.  
+🚀 Project Manager focusing on Data Analyst & Management consulting | Turning Data into Insights, and Ideas into Reality.  
 
 
-📊 **Currently Working On:**  
-- Building an interactive **Data Dashboard** using Tableau & Power BI  
+📊 **Currently Working as:**  
+- Project Manager at Meta on the Access & Compromise Team - catering to Trust & Safety for billions of users globally
+- Building an interactive **Data Dashboard** using Meta Internal Tools as well as Tableau & Power BI  
 - Enhancing my skills in **Advanced SQL & Machine Learning for Data Analysis**  
 
 📚 **Currently Learning:**  
@@ -15,6 +16,8 @@
 - SQL & Database Management (MySQL, PostgreSQL)  
 - Python for Data Analysis (Pandas, NumPy, Scikit-Learn)  
 - Business Intelligence & Reporting
+- Strategic decisions
+- Management Consulting
 
 📫 How to reach me: **gangulyanurag99@gmail.com**  
 
