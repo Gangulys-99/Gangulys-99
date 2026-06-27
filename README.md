@@ -1,5 +1,5 @@
 # Hi 👋, I'm Anurag Ganguly 
-🚀 Project Manager focusing on Data Analyst & Management consulting | Turning Data into Insights, and Ideas into Reality.  
+🚀 Project Manager focusing on Data Analytics & Management consulting | Turning Data into Insights, and Ideas into Reality.  
 
 
 📊 **Currently Working as:**  
