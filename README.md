@@ -7,10 +7,6 @@
 - Building an interactive **Data Dashboard** using Meta Internal Tools as well as Tableau & Power BI  
 - Enhancing my skills in **Advanced SQL & Machine Learning for Data Analysis**  
 
-📚 **Currently Learning:**  
-- **Big Data Processing** with Apache Spark  
-- **Cloud Data Warehousing** with AWS Redshift & Google BigQuery  
-
 💡 **Ask Me About:**  
 - Data Visualization (Tableau, Power BI, QlikSense, SAS, Matplotlib, Seaborn)  
 - SQL & Database Management (MySQL, PostgreSQL)  
